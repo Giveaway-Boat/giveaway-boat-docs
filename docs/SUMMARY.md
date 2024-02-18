@@ -2,4 +2,4 @@
 
 * [Welcome](README.md)
 * Basics
-  * [Setup](Basics/inviting-the-bot.md)
+  * [Inviting the bot](Basics/inviting-the-bot.md)
