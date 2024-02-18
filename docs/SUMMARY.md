@@ -1,4 +1,5 @@
 # Table of Contents
 
-* [Giveaway Boat](README.md)
-  * [Setup](setup.md)
+* [Welcome](README.md)
+* Basics
+  * [Setup](Basics/setup.md)
