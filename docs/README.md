@@ -2,7 +2,7 @@
 description: >-
   Learn about Giveaway Boat
 ---
-# Giveaway Boat
+# Welcome
 
 Giveaway Boat is an advanced Discord Giveaway Bot with a lot of features and easy to use Dashboard!
 
