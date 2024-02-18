@@ -21,12 +21,13 @@ To start, head on to the dashboard by clicking [here](https://giveaway.boats/das
 
 ![Dashboard](/assets/basics/setup/dashboard.png)
 
-{% hint style="warn" %}
+{% hint style="warning" %}
 **Save Changes**
+
 When changing settings, do not forget to save once you are done! Otherwise, all of your progress will be lost.
-{% endhint %}
 
 ![Save Changes](/assets/basics/setup/save-changes.png)
+{% endhint %}
 
 | Content                                               | Description                                                                                                     |
 | ----------------------------------------------------- | --------------------------------------------------------------------------------------------------------------- |
