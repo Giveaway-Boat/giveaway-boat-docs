@@ -1,6 +1,6 @@
 ---
 description: >-
-  Learn how to setup Giveaway Boat in your server
+  Learn how to invite Giveaway Boat in your server
 ---
 # Inviting the bot
 
@@ -17,11 +17,11 @@ description: >-
 To start, invite the bot to your server by clicking [here](https://giveaway.boats/invite).
 You will see a website like so:
 
-![Discord Invite](https://i.imgur.com/iBNGa6T.png)
+![Pick Server](/assets/basics/inviting-the-bot/pick-server.png)
 
 Pick the name of your server. Click the "Continue" button.
 You will now see the list of permissions the bot needs. These are the fundamental permissions required for the bot's actions.
 
-![Permissions](https://i.imgur.com/veYnVST.png)
+![Permissions](/assets/basics/inviting-the-bot/permissions.png)
 
 If you are okay with all of these permissions, click the "Authorize" button.
