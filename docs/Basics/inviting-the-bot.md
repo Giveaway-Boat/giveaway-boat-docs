@@ -2,7 +2,7 @@
 description: >-
   Learn how to setup Giveaway Boat in your server
 ---
-# Setup
+# Inviting the bot
 
 ## Requirements
 
@@ -12,7 +12,7 @@ description: >-
   - Flantic
   - Security Bot
 
-## Inviting the bot
+## Inviting
 
 To start, invite the bot to your server by clicking [here](https://giveaway.boats/invite).
 You will see a website like so:
