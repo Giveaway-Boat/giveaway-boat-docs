@@ -1,8 +1,8 @@
 ---
 description: >-
-  Change the bot's language
+  Change the bot's prefix
 ---
-# Language
+# Prefix
 
 Giveaway Boat allows changing of prefixes. You can use this for faster use or to resolve other bots' prefix conflicts.
 
