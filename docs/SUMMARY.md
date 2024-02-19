@@ -1,7 +1,7 @@
 # Table of Contents
 
 * [Welcome](README.md)
-* Basics
+* [Basics](./basics/README.md)
   * [Inviting the bot](basics/inviting-the-bot.md)
   * [Setup](basics/setup/README.md)
     * [Giveaway Creator Roles](basics/setup/giveaway-creator-roles.md)
