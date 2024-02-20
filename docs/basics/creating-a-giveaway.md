@@ -56,7 +56,7 @@ Use the command `g.start`. The bot will ask you four different questions.
 
 Once you follow through all of the bot's instructions, the giveaway will be started in the given channel.
 
-[!Giveaway Started](/assets/basics/creating-a-giveaway/prefix/giveaway-started.png)
+![Giveaway Started](/assets/basics/creating-a-giveaway/prefix/giveaway-started.png)
 
 ## Options
 
