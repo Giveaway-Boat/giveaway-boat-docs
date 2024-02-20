@@ -8,3 +8,4 @@
     * [Giveaway Manager Roles](basics/setup/giveaway-manager-roles.md)
     * [Language](basics/setup/language.md)
     * [Prefix](basics/setup/prefix.md)
+  * [Creating a Giveaway](basics/creating-a-giveaway.md)
