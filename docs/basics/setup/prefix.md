@@ -5,6 +5,8 @@ description: >-
 # Prefix
 
 Giveaway Boat allows changing of prefixes. You can use this for faster use or to resolve other bots' prefix conflicts.
+Giveaway Boat's default prefix is `g.`
+This can be viewed by mentioning the bot (@Giveaway Boat)
 
 ## Setup
 
@@ -19,3 +21,4 @@ After saving, you can notice the changes by mentioning the bot:
 ## Additional Information
 
 - Prefixes does not apply to slash commands.
+- Prefix commands are generally harder than slash commands and dashboard. It is not recommended for newcomers.
