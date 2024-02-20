@@ -23,7 +23,7 @@ Click the "Giveaways" button in the navigation bar at the top to view all giveaw
 
 ![Create a Giveaway](/assets/basics/creating-a-giveaway/dash/create-a-giveaway.png)
 
-See the "Options" section of this page for more details about the options.
+See the "Options" section of this page for more details about the options by clicking [here](#options).
 
 ## Using slash commands to create a giveaway
 
@@ -42,7 +42,7 @@ A message with three buttons will appear. If you want to edit the giveaway, clic
 
 ![Giveaway Started](/assets/basics/creating-a-giveaway/slash/giveaway-started.png)
 
-See the "Options" section of this page for more details about the options.
+See the "Options" section of this page for more details about the options by clicking [here](#options).
 
 ## Using prefix commands to start a giveaway
 

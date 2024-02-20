@@ -9,3 +9,5 @@
     * [Language](basics/setup/language.md)
     * [Prefix](basics/setup/prefix.md)
   * [Creating a Giveaway](basics/creating-a-giveaway.md)
+  * [Editing a Giveaway](basics/editing-a-giveaway.md)
+* [FAQ](faq.md)
