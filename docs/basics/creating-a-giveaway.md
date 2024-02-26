@@ -85,11 +85,4 @@ For example:
 - 1d: One day
 - 2w3d: Two weeks and three days
 - 1m: One minute
-
-{% hint style="info" %}
-You can't specify months. Any casing of "m" will always turn out to be minutes. Always verify the "Ends At" time below the input box.
-
-![Giveaway Ends At](/assets/basics/creating-a-giveaway/giveaway-duration-ends-at.png)
-
-As an alternative, use `30 days`, or however much amount of days you prefer to be "one month".
-{% endhint %}
+- 1mo: One month
