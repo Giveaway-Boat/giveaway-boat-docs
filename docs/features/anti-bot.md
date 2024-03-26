@@ -19,4 +19,4 @@ You can also use this option when creating giveaways or templates.
 
 ### Slash Commands / Prefix
 
-UNFINISHED
+TODO
