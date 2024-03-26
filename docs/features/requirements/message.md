@@ -34,7 +34,7 @@ When starting a giveaway, you can add message requirements. This is split into t
 - Required Monthly Messages
 - Required Total Messages
 
-![Message Requirement Options in Dashboard](/assets/features/requirements/message/enabling/dashboard.png)
+![Message Requirement Options in Dashboard](/assets/features/requirements/message/using/dashboard.png)
 
 #### Slash Commands
 
@@ -45,7 +45,7 @@ The requirement is split into three options.
 - required-monthly-messages
 - required-total-messages
 
-![Message Requirement Options in Slash Command](/assets/features/requirements/message/enabling/slash-command.png)
+![Message Requirement Options in Slash Command](/assets/features/requirements/message/using/slash-command.png)
 
 #### Prefix Commands
 
@@ -56,7 +56,7 @@ There are three options you can specify:
 - --required-monthly-messages / -rmm
 - --required-total-messages / -rtm
 
-![Message Requirement Options in Prefix Command](/assets/features/requirements/message/enabling/prefix-commands.png)
+![Message Requirement Options in Prefix Command](/assets/features/requirements/message/using/prefix-commands.png)
 
 ## More Information
 
@@ -66,3 +66,11 @@ There are three options you can specify:
 - Weekly Messages: Every Sunday, 00:00 UTC
 - Monthly Messages: Every 1st day of the month, 00:00 UTC
 - Total Messages: Never resets automatically
+
+### Blacklisting
+
+You can blacklist channels from being counted in the message counter.
+
+![Blacklist option on dashboard](/assets/features/requirements/message/blacklist.png)
+
+If you want to whitelist, click the "Add all" button and deselect the ones you want whitelisted.
