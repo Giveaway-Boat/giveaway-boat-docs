@@ -1,0 +1,7 @@
+{
+  "Create a hint": {
+    "prefix": "!hint",
+    "body": ["{% hint style=\"${1:info}\" %}", "${2}", "{% endhint %}"],
+    "description": "Create a hint"
+  }
+}
