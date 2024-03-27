@@ -18,4 +18,5 @@
     - [Message](features/requirements/message.md)
     - [Level](features/requirements/level.md)
     - [Role](features/requirements/role.md)
+    - [Bypass Requirements](features/requirements/bypass.md)
 - [Frequently Asked Questions](faq.md)

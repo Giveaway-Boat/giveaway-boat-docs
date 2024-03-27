@@ -3,7 +3,7 @@ description: >-
   Allow roles to bypass all requirements in a giveaway
 ---
 
-# Bypass Roles
+# Bypass Requirements Roles
 
 This option allows people with special roles to bypass certain requirements that you add in your giveaways.
 
