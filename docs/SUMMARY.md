@@ -17,4 +17,5 @@
   - [Requirements](features/requirements/README.md)
     - [Message](features/requirements/message.md)
     - [Level](features/requirements/level.md)
+    - [Role](features/requirements/role.md)
 - [Frequently Asked Questions](faq.md)
