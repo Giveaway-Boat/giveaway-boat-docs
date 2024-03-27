@@ -1,0 +1,11 @@
+{
+	"Add page description": {
+		"prefix": "desc",
+		"body": [
+			"---",
+			"description: >-",
+			"  $0",
+			"---"
+		]
+	}
+}
