@@ -21,4 +21,6 @@
     - [Level](features/requirements/level.md)
     - [Role](features/requirements/role.md)
     - [Bypass Requirements](features/requirements/bypass.md)
+  - [Customization](features/customization/README.md)
+    - [Embed](features/customization/embed.md)
 - [Frequently Asked Questions](faq.md)
