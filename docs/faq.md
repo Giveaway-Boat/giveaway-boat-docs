@@ -29,3 +29,7 @@ _[Source](https://discord.com/safety/platform-manipulation-policy-explainer)_
 > Invite reward servers are servers that promise some form of perk, often financial, for inviting and getting other users to join said server. We strongly discourage this activity, as it often results in spamming users with unsolicited messages. If it leads to spam or another form of abuse, we may take action including removing the users and server.
 
 _[Source](https://discord.com/safety/360044104071-Tips-against-spam-and-hacking)_
+
+## More questions? Want to suggest new features?
+
+Join the bot's support server by clicking [here](https://support.giveaway.boats).
