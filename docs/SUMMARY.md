@@ -14,6 +14,8 @@
 - [Features](features/README.md)
   - [Anti-Bot](features/anti-bot.md)
   - [Extra Entries](features/extra-entries.md)
+  - [Scheduling](features/scheduling.md)
+  - [Logging](features/logging.md)
   - [Requirements](features/requirements/README.md)
     - [Message](features/requirements/message.md)
     - [Level](features/requirements/level.md)
